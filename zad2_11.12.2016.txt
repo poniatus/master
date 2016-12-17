@@ -1,0 +1,2 @@
+1. Policz sumę wszystkich liczb od 1 do x, gdzie x podaje uzytkownik za pomocą rekurencji.
+
