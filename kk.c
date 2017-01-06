@@ -70,7 +70,6 @@ if(plansza[x][y]!= ' '){
 printf("Blad wyboru, podaj jeszcze raz:\n");
 
 ruch_gracza();
-
 }
 
 else plansza[x][y] = 'X';
